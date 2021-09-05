@@ -1,0 +1,192 @@
+body {
+    background-color: rgb(0, 255, 136);
+}
+p {
+    color: rgb(0, 0, 0);
+}
+h1 {
+    color: rgb(255, 0, 0);
+}
+h2 {
+    color: rgb(255, 0, 221);
+}
+h3 {
+    color: rgb(183, 0, 255);
+}
+h4 {
+    color: rgb(0, 0, 0);
+}
+h5 {
+    color: rgb(0, 47, 255);
+}
+.B{
+    background-color: grey;
+    border: 2px dashed white;
+    color: black;
+font-family: fantasy;
+    border-radius: 15%;
+    width:200px ;
+    animation-name: move;
+    animation-duration:3s ;
+    animation-iteration-count: infinite;
+}
+@keyframes move
+{
+0%{width: 200px;background-color: pink;  box-shadow: 0 0 10px red;}
+25%{width: 300px;background-color: red;  box-shadow: 0 0 10px white;}
+50%{ width: 400px;background-color: yellow ; box-shadow:0 0 30px green;}
+75%{width: 300px;background-color: red;  box-shadow: 0 0 10px purple;}
+100%{width:200px  ;background-color: pink ; box-shadow:0 0 60px yellow;}
+} 
+.ZIAD{
+    background-color: blue;
+    border: 2px dashed white;
+    color: black;
+font-family: fantasy;
+    border-radius: 15%;
+    width:200px ;
+    animation-name: move;
+    animation-duration:3s ;
+    animation-iteration-count: infinite;
+}
+@keyframes move
+{
+0%{box-shadow: 0 0 10px red;}
+25%{box-shadow: 0 0 10px white;}
+50%{ box-shadow:0 0 30px green;}
+75%{box-shadow: 0 0 10px purple;}
+100%{box-shadow:0 0 60px yellow;}
+} 
+.ZIZ{
+    background-color: white;
+    border: 2px dashed blueviolet;
+    color: black;
+font-family: fantasy;
+    border-radius: 15%;
+    width:200px ;
+    animation-name: move;
+    animation-duration:3s ;
+    animation-iteration-count: infinite;
+}
+@keyframes move
+{
+0%{box-shadow: 0 0 10px red;}
+25%{box-shadow: 0 0 10px white;}
+50%{box-shadow:0 0 30px green;}
+75%{box-shadow: 0 0 10px purple;}
+100%{box-shadow:0 0 60px yellow;}
+} 
+.ZIZA{
+    background-color: green;
+    border: 2px dashed white;
+    color: black;
+font-family: fantasy;
+    border-radius: 15%;
+    width:200px ;
+    animation-name: move;
+    animation-duration:3s ;
+    animation-iteration-count: infinite;
+}
+@keyframes move
+{
+0%{box-shadow: 0 0 10px red;}
+25%{box-shadow: 0 0 10px white;}
+50%{ box-shadow:0 0 30px green;}
+75%{box-shadow: 0 0 10px purple;}
+100%{ box-shadow:0 0 60px yellow;}
+} 
+.ZIZ0{
+    background-color: cyan;
+    border: 2px dashed white;
+    color: black;
+font-family: fantasy;
+    border-radius: 15%;
+    width:200px ;
+    animation-name: move;
+    animation-duration:3s ;
+    animation-iteration-count: infinite;
+}
+@keyframes move
+{
+0%{box-shadow: 0 0 10px red;}
+25%{box-shadow: 0 0 10px white;}
+50%{ box-shadow:0 0 30px green;}
+75%{box-shadow: 0 0 10px purple;}
+100%{ box-shadow:0 0 60px yellow;}
+} 
+.ZIZ0o{
+    background-color: cyan;
+    border: 2px dashed white;
+    color: black;
+font-family: fantasy;
+    border-radius: 15%;
+    width:200px ;
+    animation-name: move;
+    animation-duration:3s ;
+    animation-iteration-count: infinite;
+}
+@keyframes move
+{
+0%{ box-shadow: 0 0 10px red;}
+25%{box-shadow: 0 0 10px white;}
+50%{ box-shadow:0 0 30px green;}
+75%{box-shadow: 0 0 10px purple;}
+100%{ box-shadow:0 0 60px yellow;}
+} 
+.ZI{
+    background-color: cyan;
+    border: 2px dashed white;
+    color: black;
+font-family: fantasy;
+    border-radius: 15%;
+    width:200px ;
+    animation-name: move;
+    animation-duration:3s ;
+    animation-iteration-count: infinite;
+}
+@keyframes move
+{
+0%{ box-shadow: 0 0 10px red;}
+25%{box-shadow: 0 0 10px white;}
+50%{ box-shadow:0 0 30px green;}
+75%{box-shadow: 0 0 10px purple;}
+100%{ box-shadow:0 0 60px yellow;}
+} 
+.Z{
+    background-color: cyan;
+    border: 2px dashed white;
+    color: black;
+font-family: fantasy;
+    border-radius: 15%;
+    width:200px ;
+    animation-name: move;
+    animation-duration:3s ;
+    animation-iteration-count: infinite;
+}
+@keyframes move
+{
+0%{ box-shadow: 0 0 10px red;}
+25%{box-shadow: 0 0 10px white;}
+50%{ box-shadow:0 0 30px green;}
+75%{box-shadow: 0 0 10px purple;}
+100%{ box-shadow:0 0 60px yellow;}
+} 
+
+.ronaldo
+{
+    background-color: black;
+    color: white;
+    width: 200px;
+    height: 200px;
+    animation-name:move ;
+ animation-duration:8s ;
+ animation-timing-function: linear;
+ animation-iteration-count: infinite;
+ background-size:200px ;
+}
+
+@keyframes move
+{
+0%{transform: translatex(0px) translateY(0px);background-image: url(https://th.bing.com/th/id/Racfde749320e3dda1e839bd39018271c?rik=GyxQQkdy5TMzYA&riu=http%3a%2f%2fwww.findtakeaways.co.za%2fimages%2fHut-Doubles-Large-nw.jpg&ehk=uIg4nQ9oO2a0d%2b96G05JGaJZ%2bCnUVX4W%2f9beGk%2fPciI%3d&risl=&pid=ImgRaw);}
+100%{transform: translatex(0px) translateY(100px);background-image: url(https://th.bing.com/th/id/OIP.q1Cx-SQMaXHny3qsgVOvQwHaCx?pid=ImgDet&rs=1);}
+}
